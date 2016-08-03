@@ -1,0 +1,192 @@
+/* Inserta tu CSS aqui */
+
+.recipiente-general {
+	width: 1300px;
+	max-width: 100%;
+	margin: auto;
+}
+
+/*header*/
+
+.menu {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.enl {
+	text-decoration: none;
+	color: #415261;
+	margin: 40px;
+	font-family: Oswald;
+	font-weight: bold;
+}
+
+.fondoprinc {
+	margin-top: 20px;
+	height: 500px;
+	background-image: url(../images/background.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.logoprinc {
+	width: 50px;
+	height: 50px;
+}
+
+.center {
+	padding-top: 150px;
+}
+
+.cont {
+	text-align: center;
+
+}
+
+.titulo {
+	color: #FEF9F4;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.subt {
+	font-size: 25px;
+}
+
+/*section*/
+
+.fond-sect {
+	background-image: url(../images/tile1.png);
+	height: 400px;
+}
+
+.text {
+	text-align: center;
+	color: #8F03E3;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.about .text {
+		margin-top: 70px;
+}
+
+.photo {
+	border: 1px solid black;
+	width: 20%;
+	margin-right: 10px;
+}
+
+.info {
+	margin-top: 20px;
+	padding: 3px 3px 0px 3px;
+
+}
+
+/*section*/
+
+.sectphoto {
+	padding-top: 70px;
+}
+
+.texto {
+	text-align: center;
+	color: #8F03E3;
+	font-size: 25px;
+	margin-top: 15px;
+	font-weight: bold;
+}
+
+.subtexto {
+	font-size: 20px;
+}
+
+.gato {
+	border-radius: 50%;
+	width: 200px;
+	border: 1px solid #8F03E3;
+	padding: 3px;
+}
+
+.fotos {
+	padding:30px 50px;
+	margin-left: 30px;
+}
+
+/*footer*/
+
+.footer {
+	background-image: url(../images/tile2.png);
+	height: 400px;
+	text-align: center;
+}
+
+.contact {
+	margin-top: 100px;
+}
+
+.redes {
+	border-radius: 50%;
+	width: 50%;
+}
+
+.social {
+	margin-right: -100px;
+}
+
+.footerimg {
+	margin-left: 200px;
+	margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
